@@ -37,10 +37,10 @@ The NT3H2111 chip needs to be initialized before it can be written to. Fresh fro
 ## Bill of Materials
 | Part | Quantity | Link |
 |------|----------|------|
-| NT3H2111W0FHKH NFC Chip | 1 | JLCPCB Parts Library |
-| 2V LED | 1 | JLCPCB Parts Library |
-| 47 Ohm Resistor | 1 | JLCPCB Parts Library |
-| 220nF Capacitor | 1 | JLCPCB Parts Library |
+| NT3H2111W0FHKH NFC Chip | 1 | [JLCPCB Parts Library](https://jlcpcb.com/partdetail/NxpSemicon-NT3H2111W0FHKH/C710403) |
+| 2V LED | 1 | [JLCPCB Parts Library](https://jlcpcb.com/partdetail/Hubei_KentoElec-17_21SUYCTR8/C2296) |
+| 47 Ohm Resistor | 1 | [JLCPCB Parts Library](https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182) |
+| 220nF Capacitor | 1 | [JLCPCB Parts Library](https://jlcpcb.com/partdetail/21832-CL10B224KA8NNNC/C21120) |
 
 ## Credits
 - [Hack Club Hacker Card Jam](https://jams.hackclub.com/jam/hacker-card) for the base schematic and PCB design
