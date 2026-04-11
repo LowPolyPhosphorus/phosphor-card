@@ -49,10 +49,10 @@ The NT3H2111 chip needs to be initialized before it can be written to. Fresh fro
 <img width="347" height="276" alt="image" src="https://github.com/user-attachments/assets/3cbe7c2c-8cee-41a3-a009-4fbb2882e194" />
 <img width="718" height="429" alt="image" src="https://github.com/user-attachments/assets/9e0d9b3c-ca8c-4aa0-ae1d-8db7555d4c9e" />
 <img width="351" height="294" alt="image" src="https://github.com/user-attachments/assets/2b57aafb-3d7b-4fa8-98f0-50b12a965eee" />
--# it should have these errors ^^
+
+> it should have these errors ^^ (AND ONLY THESE ERRORS)
+
 <img width="800" height="478" alt="image" src="https://github.com/user-attachments/assets/daafc64c-3914-422a-bd98-802ac2606d39" />
 <img width="1055" height="632" alt="image" src="https://github.com/user-attachments/assets/6e766d67-1169-4e43-976f-2147ccbf4a36" />
 <img width="979" height="614" alt="image" src="https://github.com/user-attachments/assets/37fab178-6d06-4a7c-adf8-e6644f4e27ae" />
-
-
 
